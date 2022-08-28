@@ -1,16 +1,15 @@
-### Hi there 👋
+![Header](https://github.com/ovalentinka/ovalentinka/blob/Ya.Praktikum/header.PNG)
 
-<!--
-**ovalentinka/ovalentinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me \ Обо мне
+Я  - junior аналитик данных.
 
-Here are some ideas to get you started:
+### Languages & Tools \ Языки и инструменты
+![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-69b5cc?style=for-the-badge&logo=mySQL)
+![JupiterNotebook](https://img.shields.io/badge/-JupiterHub-69b5cc?style=for-the-badge&logo=JupiterHub)
+![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=Tableau)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me \ Связаться со мной
+[![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:oxvkarpova@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/murmure)
+[![Instagram](https://img.shields.io/badge/-Instagram-69b5cc?style=for-the-badge&logo=Instagram)](https://www.instagram.com/oxvkarpova)
