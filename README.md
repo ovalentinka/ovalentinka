@@ -10,7 +10,7 @@
 
 ### Languages & Tools \ Языки и инструменты
 ![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-69b5cc?style=for-the-badge&logo=mySQL)
+![SQL](https://img.shields.io/badge/-SQL-69b5cc?style=for-the-badge&logo=PostgreSQL)
 ![JupiterNotebook](https://img.shields.io/badge/-JupyterHub-69b5cc?style=for-the-badge&logo=Jupyter)
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=Tableau)
 
